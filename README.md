@@ -20,4 +20,4 @@ Este projeto é um painel simples e eficiente desenvolvido em **C# .NET** que pe
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/usuario/painel-links-rapidos.git
+   git clone https://github.com/hsrodrigues/Painel-.NET-C-.git
