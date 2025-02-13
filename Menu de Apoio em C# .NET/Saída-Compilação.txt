@@ -1,0 +1,5 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: COMPLETE_FLAT_UI, Configuração: Debug Any CPU ------
+1>D:\Projetos C#\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\FormMenuPrincipal.cs(34,21,34,30): warning CS0414: O campo "FormMenuPrincipal.tolerance" é atribuído, mas seu valor nunca é usado
+1>  COMPLETE_FLAT_UI -> D:\Projetos C#\ModernFlat-GUI-Version-Completa-C-Sharp-master\ModernFlat-GUI-Version-Completa-C-Sharp-master\COMPLETE_FLAT_UI\bin\Debug\menu_apoio_tissue_2.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
